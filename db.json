@@ -1,0 +1,169 @@
+{
+  "data": {
+    "header": {
+      "Home": {
+        "en": "Home",
+        "ru": "Домой",
+        "tj": "Сохтмон"
+      },
+      "About": {
+        "en": "About us",
+        "ru": "О нас",
+        "tj": "Дар бораи мо"
+      },
+      "Category": {
+        "en": "Category",
+        "ru": "Категория",
+        "tj": "Категория"
+      },
+      "News": {
+        "en": "News",
+        "ru": "Новости",
+        "tj": "Хабарҳо"
+      },
+      "Sing": {
+        "en": "Sign Up",
+        "ru": "Регистрация",
+        "tj": "Сафарш"
+      },
+      "Login": {
+        "en": "Login",
+        "ru": "Войти",
+        "tj": "Ворид шудан"
+      }
+    },
+    "Home": {
+      "first": {
+        "Name": {
+          "en": "Education.TJ",
+          "ru": "Образование.TJ",
+          "tj": "Таълим.TJ"
+        },
+        "Description": {
+          "en": "Information Portal about Education",
+          "ru": "Информационный портал о образовании",
+          "tj": "Портали иттилоотӣ дар бораи таълим"
+        }
+      },
+      "Category": {
+        "Collage": {
+          "en": "Collage",
+          "ru": "Колледж",
+          "tj": "Колледж"
+        },
+        "Schools": {
+          "en": "Schools",
+          "ru": "Школы",
+          "tj": "Мактабҳо"
+        },
+        "Kinder": {
+          "en": "For kids",
+          "ru": "Для детей",
+          "tj": "Барои кӯдакон"
+        },
+        "Course": {
+          "en": "Course",
+          "ru": "Курс",
+          "tj": "Курс"
+        }
+      }
+    },
+    "Colleges": [
+      {
+        "Name": {
+          "en": "Tajik National University",
+          "ru": "Таджикский национальный университет",
+          "tj": "Донишкадаи миллии Тоҷикистон"
+        },
+        "Description": {
+          "en": "The largest and one of the most prestigious universities in Tajikistan, offering a wide range of programs in various fields such as science, engineering, law, and humanities.",
+          "ru": "Самый крупный и один из самых престижных университетов Таджикистана, предлагающий широкий спектр программ в различных областях, таких как наука, инженерия, право и гуманитарные науки.",
+          "tj": "Бузургтарин ва яке аз маъруфтарин донишкадаҳо дар Тоҷикистон, ки барномаҳои гуногуни таълимӣ дар соҳаҳои гуногун, аз ҷумла илм, муҳандисӣ, ҳуқуқ ва гуманитарӣ пешниҳод мекунад."
+        },
+        "GoogleLocation": "https://www.google.com/maps/place/Tajik+National+University",
+        "Price": {
+          "en": "2,000 to 3,000 USD per year (undergraduate programs)",
+          "ru": "2 000 до 3 000 долларов США в год (бакалавриат)",
+          "tj": "2,000 то 3,000 доллари ИМА барои як сол (барномаҳои бакалавр)"
+        },
+        "Img": ""
+      },
+      {
+        "Name": {
+          "en": "Khujand State University",
+          "ru": "Худжандский государственный университет",
+          "tj": "Донишкадаи давлатии Хуҷанд"
+        },
+        "Description": {
+          "en": "Located in northern Tajikistan, Khujand State University offers programs in fields like science, engineering, and social sciences.",
+          "ru": "Расположенный на севере Таджикистана, Ходжандский государственный университет предлагает программы по таким направлениям, как наука, инженерия и социальные науки.",
+          "tj": "Дар шимоли Тоҷикистон воқеъ буда, Донишкадаи давлатии Хуҷанд барномаҳои таълимӣ дар соҳаҳои илм, муҳандисӣ ва илмҳои иҷтимоиро пешниҳод мекунад."
+        },
+        "GoogleLocation": "https://www.google.com/maps/place/Khujand+State+University",
+        "Price": {
+          "en": "1,500 to 2,500 USD per year (undergraduate programs)",
+          "ru": "1 500 до 2 500 долларов США в год (бакалавриат)",
+          "tj": "1,500 то 2,500 доллари ИМА барои як сол (барномаҳои бакалавр)"
+        },
+        "Img": "url_to_image_of_khujand_university.jpg"
+      },
+      {
+        "Name": {
+          "en": "Tajik Technical University",
+          "ru": "Таджикский технический университет",
+          "tj": "Донишкадаи техникии Тоҷикистон"
+        },
+        "Description": {
+          "en": "Tajik Technical University offers undergraduate and graduate programs in engineering, technology, and applied sciences.",
+          "ru": "Таджикский технический университет предлагает бакалавриат и магистратуру по инженерии, технологиям и прикладным наукам.",
+          "tj": "Донишкадаи техникии Тоҷикистон барномаҳои бакалавр ва магистратураи муҳандисӣ, технология ва илмҳои амалӣ пешниҳод мекунад."
+        },
+        "GoogleLocation": "https://www.google.com/maps/place/Tajik+Technical+University",
+        "Price": {
+          "en": "1,800 to 2,800 USD per year (undergraduate programs)",
+          "ru": "1 800 до 2 800 долларов США в год (бакалавриат)",
+          "tj": "1,800 то 2,800 доллари ИМА барои як сол (барномаҳои бакалавр)"
+        },
+        "Img": "url_to_image_of_ttu.jpg"
+      },
+      {
+        "Name": {
+          "en": "Russian-Tajik (Slavonic) University",
+          "ru": "Российско-таджикский (славянский) университет",
+          "tj": "Донишкадаи Руссои-Точики (Славян)"
+        },
+        "Description": {
+          "en": "This university provides education in humanities, economics, law, and collaborates with Russian institutions.",
+          "ru": "Этот университет предоставляет образование в области гуманитарных наук, экономики, права и сотрудничает с российскими учреждениями.",
+          "tj": "Ин донишкада таҳсилоти соҳаҳои гуманитарӣ, иқтисод, ҳуқуқро пешниҳод мекунад ва бо муассисаҳои Русия ҳамкорӣ мекунад."
+        },
+        "GoogleLocation": "https://www.google.com/maps/place/Russian-Tajik+University",
+        "Price": {
+          "en": "2,000 to 3,500 USD per year (undergraduate programs)",
+          "ru": "2 000 до 3 500 долларов США в год (бакалавриат)",
+          "tj": "2,000 то 3,500 доллари ИМА барои як сол (барномаҳои бакалавр)"
+        },
+        "Img": "url_to_image_of_rtsu.jpg"
+      },
+      {
+        "Name": {
+          "en": "Agricultural Colleges",
+          "ru": "Сельскохозяйственные колледжи",
+          "tj": "Колледжҳои кишоварзӣ"
+        },
+        "Description": {
+          "en": "Various institutions specializing in agriculture and environmental sciences, catering to the country’s agricultural sector.",
+          "ru": "Различные учебные заведения, специализирующиеся на сельском хозяйстве и экологических науках, обслуживающие сельскохозяйственный сектор страны.",
+          "tj": "Масъулон дар соҳаи кишоварзӣ ва илмҳои экологӣ, ки ба соҳаи кишоварзии кишвар хидмат мекунанд."
+        },
+        "GoogleLocation": "https://www.google.com/maps/search/agricultural+colleges+in+tajikistan",
+        "Price": {
+          "en": "1,000 to 2,000 USD per year (undergraduate programs)",
+          "ru": "1 000 до 2 000 долларов США в год (бакалавриат)",
+          "tj": "1,000 то 2,000 доллари ИМА барои як сол (барномаҳои бакалавр)"
+        },
+        "Img": "url_to_image_of_agriculture_colleges.jpg"
+      }
+    ]
+  }
+}
